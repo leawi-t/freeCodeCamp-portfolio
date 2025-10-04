@@ -1,4 +1,4 @@
-# personal portfolio Page
+# Personal Portfolio Page
 
 A project built as part of the **FreeCodeCamp Responsive Web Design Certification**.  
 This page is a simple personal protfolio page built with HTML and CSS containing some of my skills, projects and how to contacting me.
